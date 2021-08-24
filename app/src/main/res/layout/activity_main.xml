@@ -42,8 +42,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="5dp"
-                android:src="@drawable/cloudy"
-                android:contentDescription="@string/todo" />
+                android:contentDescription="@string/todo"
+                android:src="@drawable/cloudy" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -89,8 +89,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="285dp"
                 android:layout_marginTop="15dp"
-                android:src="@drawable/eyes"
-                android:contentDescription="@string/todo"/>
+                android:contentDescription="@string/todo"
+                android:src="@drawable/eyes" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -106,9 +106,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="100dp"
                 android:layout_marginTop="19dp"
-                android:src="@drawable/wind"
                 android:contentDescription="@string/todo"
-                />
+                android:src="@drawable/wind" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -139,8 +138,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="178dp"
                 android:layout_marginTop="19dp"
-                android:src="@drawable/pressure"
-                android:contentDescription="@string/todo"/>
+                android:contentDescription="@string/todo"
+                android:src="@drawable/pressure" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -195,9 +194,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:src="@drawable/rain_cloud"
                 android:contentDescription="@string/todo"
-                />
+                android:src="@drawable/rain_cloud" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -233,9 +231,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:src="@drawable/sun_small_cloud"
                 android:contentDescription="@string/todo"
-                />
+                android:src="@drawable/sun_small_cloud" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -270,9 +267,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:src="@drawable/sun"
                 android:contentDescription="@string/todo"
-                />
+                android:src="@drawable/sun" />
 
             <TextView
                 android:layout_width="wrap_content"
