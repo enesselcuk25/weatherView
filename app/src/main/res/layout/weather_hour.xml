@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+
+    android:orientation="vertical"
+    android:layout_height="150dp"
+    android:id="@+id/fragment_hours"
+    android:background="@drawable/list_item"
+    android:gravity="center_horizontal"
+    android:layout_marginStart="5dp"
+    >
+
+    <TextView
+        android:id="@+id/textview_hour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/hourFive"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:id="@+id/ImageViewWeather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/rain_cloud" />
+
+    <TextView
+        android:id="@+id/textViewDegree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="@string/degreeTwenty"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+
+
+
+
+
+
+
+</LinearLayout>
